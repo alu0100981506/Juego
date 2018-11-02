@@ -8,5 +8,5 @@
   * Si el jugador choca con objetos de tipo B, todos los de ese tipo sufrirán alguna transformación o algún cambio en su apariencia y decrementarán el poder del jugador.
   * Incorporar un elemento que sirva para encender o apagar un foco utilizando el teclado.
   
-  ![Gif del juego](C:\Users\pablo\Videos\Captures\juego.gif)
+  ![Gif del juego](Doc\juego.gif)
  
