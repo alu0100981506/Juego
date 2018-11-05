@@ -10,3 +10,12 @@
   
   ![Gif](Doc/final.gif)
  
+ 
+ 
+### Interfaz de Usuario en Unity
+* Agregar un objeto Canvas para generar una interfaz de usuario que permita las siguientes acciones en la escena:
+
+ * Aumentar o disminuir la intensidad de una de las fuentes de luz.
+ * Aumentar o disminuir el tamaño de los objetos A de la escena.
+ 
+ ![Gif](Doc/barras.gif)
